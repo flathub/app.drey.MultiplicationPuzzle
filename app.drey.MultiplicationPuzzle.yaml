@@ -23,4 +23,4 @@ modules:
     sources:
       - type: git
         url: https://gitlab.gnome.org/mterry/gmult.git
-        commit: bdff85da8892a5600144cc040ae06c5daf117652
+        commit: 3d0058bc44464a10d6d0b1a5b37ff0ec26e99247
