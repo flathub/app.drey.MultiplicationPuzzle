@@ -5,7 +5,7 @@
 ---
 app-id: app.drey.MultiplicationPuzzle
 runtime: org.gnome.Platform
-runtime-version: '46'
+runtime-version: '47'
 sdk: org.gnome.Sdk
 command: gmult
 
