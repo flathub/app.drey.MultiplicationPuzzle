@@ -29,7 +29,7 @@ SPDX-FileCopyrightText: Michael Terry
         {
           "type": "git",
           "url": "https://gitlab.gnome.org/mterry/gmult.git",
-          "commit": "3d0058bc44464a10d6d0b1a5b37ff0ec26e99247"
+          "commit": "5dc0199e9f94585c4e3a67dcf6fcec0d114afb04"
         }
       ]
     }
