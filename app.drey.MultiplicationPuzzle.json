@@ -7,7 +7,7 @@ SPDX-FileCopyrightText: Michael Terry
 {
   "id": "app.drey.MultiplicationPuzzle",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "48",
+  "runtime-version": "49",
   "sdk": "org.gnome.Sdk",
   "command": "gmult",
 
@@ -29,7 +29,7 @@ SPDX-FileCopyrightText: Michael Terry
         {
           "type": "git",
           "url": "https://gitlab.gnome.org/mterry/gmult.git",
-          "commit": "5dc0199e9f94585c4e3a67dcf6fcec0d114afb04"
+          "commit": "d2b11f672fec50311794e791f825ecd3f773f3d9"
         }
       ]
     }

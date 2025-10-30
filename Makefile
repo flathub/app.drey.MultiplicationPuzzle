@@ -5,7 +5,7 @@
 
 .PHONY: flatpak
 flatpak:
-	flatpak-builder --install \
+	flatpak run org.flatpak.Builder --install \
 	                --user \
 	                --force-clean \
 	                _build \
@@ -14,4 +14,3 @@ flatpak:
 .PHONY: clean
 clean:
 	rm -rf _build .flatpak-builder
-
