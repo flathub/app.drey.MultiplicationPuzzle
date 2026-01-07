@@ -9,7 +9,7 @@ flatpak:
 	                --user \
 	                --force-clean \
 	                _build \
-	                app.drey.MultiplicationPuzzle.json
+	                app.drey.MultiplicationPuzzle.yaml
 
 .PHONY: clean
 clean:
