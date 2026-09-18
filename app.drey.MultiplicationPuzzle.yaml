@@ -5,7 +5,7 @@
 
 id: app.drey.MultiplicationPuzzle
 runtime: org.gnome.Platform
-runtime-version: "50"
+runtime-version: "51"
 sdk: org.gnome.Sdk
 command: gmult
 
@@ -23,4 +23,4 @@ modules:
   sources:
   - type: git
     url: "https://gitlab.gnome.org/mterry/gmult.git"
-    commit: "609d217768989dc5348ca21d32168ced0a366ec8"
+    commit: "97f0593afa690aa4de6249cd0ad81d5623d14483"
